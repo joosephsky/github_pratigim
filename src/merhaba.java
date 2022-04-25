@@ -6,4 +6,7 @@ public class merhaba {
     //deneme6 05/04/2022 2:21
     //1 
     //deneme1
+public static void main(String[] args) {
+    System.out.println("HelloWorld");
+}
 }
